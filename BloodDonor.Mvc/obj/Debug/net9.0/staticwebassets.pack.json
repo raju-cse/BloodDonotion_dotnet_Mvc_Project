@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/obj/Debug/net9.0/scopedcss/projectbundle/BloodDonor.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets/BloodDonor.Mvc.7d5cccwd2i.bundle.scp.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/07a956ba-a4e2-4565-b4cf-31c354c2cc5d.png",
+      "PackagePath": "staticwebassets/profiles/07a956ba-a4e2-4565-b4cf-31c354c2cc5d.png"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/535688ad-d0df-4eb3-b252-7b5ecba9229b.png",
+      "PackagePath": "staticwebassets/profiles/535688ad-d0df-4eb3-b252-7b5ecba9229b.png"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/8804099f-2b6a-4803-8133-cdd2bb21c090.png",
+      "PackagePath": "staticwebassets/profiles/8804099f-2b6a-4803-8133-cdd2bb21c090.png"
+    },
+    {
+      "Id": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/e96d4c89-2a89-4802-8fd9-18d786439f42.png",
+      "PackagePath": "staticwebassets/profiles/e96d4c89-2a89-4802-8fd9-18d786439f42.png"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BloodDonor.Mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BloodDonor.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.BloodDonor.Mvc.props",
+      "PackagePath": "build\\BloodDonor.Mvc.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BloodDonor.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\BloodDonor.Mvc.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BloodDonor.Mvc.props",
+      "PackagePath": "buildTransitive\\BloodDonor.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
