@@ -1188,6 +1188,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\535688ad-d0df-4eb3-b252-7b5ecba9229b.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BloodDonor.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BloodDonor.Mvc</BasePath>
+      <RelativePath>profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>sjvv0t41cb</Fingerprint>
+      <Integrity>eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\8804099f-2b6a-4803-8133-cdd2bb21c090.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BloodDonor.Mvc</SourceId>

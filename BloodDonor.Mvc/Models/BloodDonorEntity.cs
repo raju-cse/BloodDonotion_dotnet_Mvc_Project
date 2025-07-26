@@ -40,10 +40,15 @@ namespace BloodDonor.Mvc.Models
 
     public class Donation
     {
+
         [Key]
         public int Id { get; set; }
-        public required DateTime DateOfDonation { get; set; }
+        public required DateTime DonationDate { get; set; }
+
         [ForeignKey("BloodDonor")]
         public required int BloodDonorId { get; set; }
+
     }
+    
+    
 }

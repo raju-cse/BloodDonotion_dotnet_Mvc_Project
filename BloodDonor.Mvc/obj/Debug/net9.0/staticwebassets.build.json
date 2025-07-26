@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NLvoEDOEOk0JYaMG8B+Ups2d7PFSEfGAWaFPZF/Q7As=",
+  "Hash": "4APdFUl15OH2AJkSuvjb7LWJf1k6RRjF7sSTR2QQ2uI=",
   "Source": "BloodDonor.Mvc",
   "BasePath": "_content/BloodDonor.Mvc",
   "Mode": "Default",
@@ -2766,6 +2766,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/profiles/535688ad-d0df-4eb3-b252-7b5ecba9229b.png"
+    },
+    {
+      "Identity": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png",
+      "SourceId": "BloodDonor.Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/",
+      "BasePath": "_content/BloodDonor.Mvc",
+      "RelativePath": "profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjvv0t41cb",
+      "Integrity": "eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png"
     },
     {
       "Identity": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/8804099f-2b6a-4803-8133-cdd2bb21c090.png",
@@ -22126,6 +22147,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-2k3x+Vo7W8a5A7IYjYWOzl+ITZW9IfJjU45clzs5a7o="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png",
+      "AssetFile": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 16:32:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.sjvv0t41cb.png",
+      "AssetFile": "/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/wwwroot/profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 16:32:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjvv0t41cb"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/6276fa5a-1d87-4c9a-a9a8-ef6f3d1a53c0.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eMXtqIJflDZexGELZSqrHG4gGLWQ/9jU11mB2GIgY4g="
         }
       ]
     },

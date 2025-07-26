@@ -32,8 +32,40 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvb2REb25vci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/BloodDonor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvb2REb25vci9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/BloodDonor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvb2REb25vci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/BloodDonor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvb2REb25vci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/BloodDonor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvb2REb25vci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Donations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Donations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Donations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Donations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Donations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/raju/Documents/MVC_project/BloodDonor.Mvc/BloodDonor.Mvc/Views/Home/Index.cshtml]
