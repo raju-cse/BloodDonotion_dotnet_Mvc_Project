@@ -1,7 +1,8 @@
 using BloodDonor.Mvc.Data;
 using Microsoft.AspNetCore.Mvc;
 
-using BloodDonor.Mvc.Models; // ✅ required
+using BloodDonor.Mvc.Models;
+using BloodDonor.Mvc.Services.Interfaces; // ✅ required
 using Microsoft.AspNetCore.Mvc;
 
 namespace BloodDonor.Mvc.Controllers;
@@ -9,12 +10,14 @@ namespace BloodDonor.Mvc.Controllers;
 public class BloodDonorController : Controller
 {
     private readonly BloodDonorDbContext _context;
-    private readonly IWebHostEnvironment _env;
+    private readonly IFileServices _fileServices;
+    private readonly IBloodDonorService _bloodDonorService;
 
-    public BloodDonorController(BloodDonorDbContext context, IWebHostEnvironment env)
+    public BloodDonorController(BloodDonorDbContext context, IFileServices fileServices, IBloodDonorService bloodDonorService)
     {
         _context = context;
-        _env = env;
+        _fileServices = fileServices;
+        _bloodDonorService = bloodDonorService;
     }
     
     // GET
@@ -74,25 +77,11 @@ public class BloodDonorController : Controller
             Weight = donor.Weight,
             Address = donor.Address,
             LastDonationDate = donor.LastDonationDate,
+            ProfilePicture = await _fileServices.SaveFileAsync(donor.ProfilePicture)
 
 
         };
         
-        if(donor.ProfilePicture != null && donor.ProfilePicture.Length > 0)
-        {
-            var fileName = $"{Guid.NewGuid()}{Path.GetExtension(donor.ProfilePicture.FileName)}";
-            var folderPath = Path.Combine(_env.WebRootPath, "profiles");
-            if (!Directory.Exists(folderPath))
-            {
-                Directory.CreateDirectory(folderPath);
-            }
-            var fullPath = Path.Combine(folderPath, fileName);
-            using (var stream = new FileStream(fullPath, FileMode.Create))
-            {
-                await donor.ProfilePicture.CopyToAsync(stream);                    
-            }
-            donorEntity.ProfilePicture = Path.Combine("profiles", fileName);
-        }
 
         _context.BloodDonors.Add(donorEntity);
         _context.SaveChanges();
@@ -100,9 +89,9 @@ public class BloodDonorController : Controller
         
     }
     
-    public IActionResult Details(int id)
+    public async Task<IActionResult> DetailsAsync(int id)
     {
-        var donor = _context.BloodDonors.FirstOrDefault(d => d.Id == id);
+        var donor = await _bloodDonorService.GetByIdAsync(id);  
         if(donor == null)
         {
             return NotFound();
@@ -160,23 +149,10 @@ public class BloodDonorController : Controller
                 BloodGroup = donor.BloodGroup,
                 Weight = donor.Weight,
                 Address = donor.Address,
-                LastDonationDate = donor.LastDonationDate
+                LastDonationDate = donor.LastDonationDate,
+                ProfilePicture = await _fileServices.SaveFileAsync(donor.ProfilePicture)
             };
-            if (donor.ProfilePicture != null && donor.ProfilePicture.Length > 0)
-            {
-                var fileName = $"{Guid.NewGuid()}{Path.GetExtension(donor.ProfilePicture.FileName)}";
-                var folderPath = Path.Combine(_env.WebRootPath, "profiles");
-                if (!Directory.Exists(folderPath))
-                {
-                    Directory.CreateDirectory(folderPath);
-                }
-                var fullPath = Path.Combine(folderPath, fileName);
-                using (var stream = new FileStream(fullPath, FileMode.Create))
-                {
-                    await donor.ProfilePicture.CopyToAsync(stream);
-                }
-                donorEntity.ProfilePicture = Path.Combine("profiles", fileName);
-            }
+            
             _context.BloodDonors.Add(donorEntity);
             _context.SaveChanges();
             return RedirectToAction("Index");

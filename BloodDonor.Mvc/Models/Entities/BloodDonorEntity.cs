@@ -26,29 +26,9 @@ namespace BloodDonor.Mvc.Models
         public Collection<Donation> Donations { get; set; } = new Collection<Donation>();
     }
 
-    public enum BloodGroup
-    {
-        APositive,
-        ANagative,
-        BPositive,
-        BNegative,
-        ABPositive,
-        ABNegative,
-        OPositive,
-        ONegative,
-    }
+  
 
-    public class Donation
-    {
-
-        [Key]
-        public int Id { get; set; }
-        public required DateTime DonationDate { get; set; }
-
-        [ForeignKey("BloodDonor")]
-        public required int BloodDonorId { get; set; }
-
-    }
+   
     
     
 }
